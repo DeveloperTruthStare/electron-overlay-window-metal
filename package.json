@@ -27,6 +27,6 @@
     "typescript": "^4.8.3"
   },
   "dependencies": {
-    "electron-overlay-window": "^3.3.0"
+    "electron-overlay-window": "^3.3.1"
   }
 }
